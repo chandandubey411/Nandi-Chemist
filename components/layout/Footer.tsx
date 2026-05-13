@@ -100,7 +100,7 @@ export default function Footer() {
                 <p className="text-sm leading-relaxed">
                   Shop no 6, Ground Floor,<br />
                   Dasnac Jewel of Noida,<br />
-                  Sector 75, Noida, UP 201301
+                  Sector 75, Noida, UP 201316
                 </p>
               </div>
               <div className="flex items-center gap-3 text-gray-300">

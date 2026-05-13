@@ -19,7 +19,7 @@ export default function Contact() {
                 <p className="text-gray-700">
                   Shop no 6, Ground Floor,<br />
                   Dasnac Jewel of Noida, Gate no-1,<br />
-                  Sector 75, Noida, Uttar Pradesh 201301
+                  Sector 75, Noida, Uttar Pradesh 201316
                 </p>
               </div>
             </div>
